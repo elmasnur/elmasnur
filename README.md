@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elmasnur
-- 👩‍🔬 Transitioning from wet lab to bioinformatics
+- 👩🏻‍🔬 Transitioning from wet-lab to bioinformatics
 - 👀 I’m interested in RNA-seq data analysis
 - 💻  I’m currently working with transcriptomics and genomics data, data visualization and data analysis in R
 - 📫 You can reach me via email: elmasnrylmz@gmail.com
