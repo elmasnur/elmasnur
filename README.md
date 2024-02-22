@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elmasnur
 - 🧬 PhD Candidate in Biotech
-- 👩🏻‍🔬 Transitioning from wet-lab to bioinformatics (Newbie)
+- 👩🏻‍🔬 Transitioning from wet-lab to bioinformatic
 - 👀 I’m interested in RNA-seq data analysis
 - 💻  I’m currently working with transcriptomics, data visualization and data analysis in R
 - 📫 You can reach me via email: elmasnrylmz@gmail.com
